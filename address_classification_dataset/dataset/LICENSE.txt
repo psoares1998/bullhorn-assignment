@@ -1,0 +1,1246 @@
+Data collected by OpenAddresses (http://openaddresses.io).
+
+at/31254
+Website: http://www.bev.gv.at/portal/page?_pageid=713,1604469&_dad=portal&_schema=PORTAL
+License: http://www.bev.gv.at/portal/page?_pageid=713,2573888&_dad=portal&_schema=PORTAL
+Required attribution: © Austrian address register, date data from 15.07.2015
+
+at/31255
+Website: http://www.bev.gv.at/portal/page?_pageid=713,1604469&_dad=portal&_schema=PORTAL
+License: http://www.bev.gv.at/portal/page?_pageid=713,2573888&_dad=portal&_schema=PORTAL
+Required attribution: © Austrian address register, date data from 15.07.2015
+
+at/31256
+Website: http://www.bev.gv.at/portal/page?_pageid=713,1604469&_dad=portal&_schema=PORTAL
+License: http://www.bev.gv.at/portal/page?_pageid=713,2573888&_dad=portal&_schema=PORTAL
+Required attribution: © Austrian address register, date data from 15.07.2015
+
+at/city_of_vienna
+Website: https://www.data.gv.at/katalog/dataset/1d5c2411-9719-4c8f-b99d-57a5f4a4ae41
+License: https://www.data.gv.at/katalog/dataset/1d5c2411-9719-4c8f-b99d-57a5f4a4ae41
+Required attribution: Yes
+
+at/tirol
+Website: https://www.data.gv.at/
+License: CC BY 3.0 AT with the addition, that the licensor has to be informed, when using the data (http://data.tirol.gv.at/nutzungsbedingungen/)
+Required attribution: Yes
+
+be/bru/brussels-fr
+Website: http://bric.brussels/
+License: http://bric.brussels/en/our-solutions/urbis-solutions/Licence%20Open%20data%20Fr%20v4.pdf
+Required attribution: Yes
+
+be/bru/brussels-nl
+Website: http://bric.brussels/
+License: http://bric.brussels/en/our-solutions/urbis-solutions/Licence%20Open%20data%20Fr%20v4.pdf
+Required attribution: Yes
+
+be/flanders
+Website: https://download.agiv.be/Producten/Detail?id=447
+License: https://wiki.openstreetmap.org/wiki/AGIV_CRAB_Import/Free_open_data_licence_Flanders
+Required attribution: Yes
+
+be/wal/namur
+Website: http://opendata.digitalwallonia.be/dataset/pointsadresses/resource/30cd7b71-764e-4f21-9698-ed121515a21b
+License: Public Domain
+Required attribution: Yes
+
+cz/countrywide
+Website: http://vdp.cuzk.cz/vdp/ruian/vymennyformat/vyhledej?vf.pu=S&_vf.pu=on&_vf.pu=on&vf.cr=U&vf.up=OB&vf.ds=Z&vf.vu=Z&_vf.vu=on&_vf.vu=on&_vf.vu=on&_vf.vu=on&vf.uo=O&ob.kod=531723&search=Vyhledat
+License: § 62 of Law 111/2009 Sb - http://www.zakonyprolidi.cz/cs/2009-111#p62
+Required attribution: Yes
+
+de/berlin
+Website: http://fbinter.stadt-berlin.de/fb/berlin/service.jsp?id=a_hauskoordinaten@senstadt&type=FEED
+License: Nutzungsbestimmungen Geoportal Berlin (http://www.stadtentwicklung.berlin.de/geoinformation/download/nutzIII.pdf)
+Required attribution: Geoportal Berlin / Hauskoordinaten Berlin
+
+de/he/city_of_frankfurtammain
+Website: http://www.offenedaten.frankfurt.de/
+License: Datenlizenz Deutschland Namensnennung (http://www.govdata.de/dl-de/by-2-0)
+Required attribution: Stadtvermessungsamt Frankfurt am Main
+
+de/hh/statewide
+Website: http://suche.transparenz.hamburg.de/dataset/alkis-adressen-hamburg
+License: Datenlizenz Deutschland Namensnennung 2.0 (https://www.govdata.de/dl-de/by-2-0)
+Required attribution: Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung
+
+de/ni/bentheim
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+de/nw/city_of_cologne
+Website: http://www.offenedaten-koeln.de/
+License: CC BY 3.0 DE (https://creativecommons.org/licenses/by/3.0/de/)
+Required attribution: Stadt Köln
+
+de/nw/city_of_wesel
+Website: https://www.offenesdatenportal.de/dataset/adressen-von-wesel
+License: Datenlizenz Deutschland - Zero - Version 2.0 (https://www.govdata.de/dl-de/zero-2-0)
+Required attribution: Yes
+
+de/nw/city_of_wuppertal
+Website: http://www.offenedaten-wuppertal.de/dataset/wohngeb%C3%A4ude-baujahre-wuppertal
+License: Unknown
+Required attribution: Yes
+
+de/nw/kreis_viersen
+Website: https://www.offenesdatenportal.de/dataset/hausnummern-im-kreis-viersen
+License: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+Required attribution: Kreis Viersen
+
+de/nw/statewide
+Website: https://www.opengeodata.nrw.de/produkte/geobasis/lika/alkis_sek/
+License: Datenlizenz Deutschland - Namensnennung - Version 2.0 (https://www.govdata.de/dl-de/by-2-0)
+Required attribution: Yes
+
+de/sn/statewide
+Website: http://www.gdi.sachsen.de/inhalt/info/bericht/160108/160108.html
+License: Datenlizenz Deutschland - Namensnennung - Version 2.0 (https://www.govdata.de/dl-de/by-2-0)
+Required attribution: Staatsbetrieb Geobasisinformation und Vermessung Sachsen
+
+de/th/statewide
+Website: https://onlineshop.thueringen.de/th9/tlvermgeo/geoshop/flure/hauskoordinaten/
+License: dl-de/by-2-0 (https://www.govdata.de/dl-de/by-2-0)
+Required attribution: Freistaat Thüringen
+
+dk/countrywide
+Website: http://download.aws.dk/
+License: http://dawa.aws.dk/om
+Required attribution: Contains information from the Danish Ministry of Housing, Urban and Rural Address Web Services (AWS).
+
+ee/countrywide
+Website: http://xgis.maaamet.ee/adsavalik/ads
+License: Unknown
+Required attribution: Estonian Land Board 22.06.2015
+
+es/25829
+Website: http://blog-idee.blogspot.com.es/2014/03/actualizacion-de-los-datos-de-descarga.html
+License: http://www.catastro.minhap.es/ayuda/legislacion/ovc/resoluciondgc20110323_tfs.pdf
+Required attribution: Yes
+
+es/25830
+Website: http://blog-idee.blogspot.com.es/2014/03/actualizacion-de-los-datos-de-descarga.html
+License: http://www.catastro.minhap.es/ayuda/legislacion/ovc/resoluciondgc20110323_tfs.pdf
+Required attribution: Yes
+
+es/25831
+Website: http://blog-idee.blogspot.com.es/2014/03/actualizacion-de-los-datos-de-descarga.html
+License: http://www.catastro.minhap.es/ayuda/legislacion/ovc/resoluciondgc20110323_tfs.pdf
+Required attribution: Yes
+
+es/32628
+Website: http://blog-idee.blogspot.com.es/2014/03/actualizacion-de-los-datos-de-descarga.html
+License: http://www.catastro.minhap.es/ayuda/legislacion/ovc/resoluciondgc20110323_tfs.pdf
+Required attribution: Yes
+
+fi/ahvenanmaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/ahvenanmaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/etelä-karjala-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/etelä-karjala-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/etelä-pohjanmaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/etelä-pohjanmaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/etelä-savo-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/etelä-savo-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/kainuu-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/kainuu-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/kanta-häme-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/kanta-häme-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/keski-pohjanmaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/keski-pohjanmaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/keski-suomi-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/keski-suomi-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/kymeenlaakso-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/kymeenlaakso-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/lappi-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/lappi-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pirkanmaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pirkanmaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjanmaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjanmaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjois-karjala-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjois-karjala-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjois-pohjanmaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjois-pohjanmaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjois-savo-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/pohjois-savo-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/päijät-häme-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/päijät-häme-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/satakunta-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/satakunta-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/uusimaa-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/uusimaa-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/varsinais-suomi-fi
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fi/varsinais-suomi-sv
+Website: https://www.avoindata.fi/data/fi/dataset/rakennusten-osoitetiedot-koko-suomi
+License: CC BY 4.0 (https://creativecommons.org/licences/by/4.0/deed.fi)
+Required attribution: Väestörekisterikeskus
+
+fr/ain
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/aisne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/allier
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/alpes_de_haute_provence
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/alpes_maritimes
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/ardeche
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/ardennes
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/ariege
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/aube
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/aude
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/aveyron
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/bas_rhin
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/bouches_du_rhone
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/calvados
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/cantal
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/charente
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/charente_maritime
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/cher
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/colmar
+Website: https://opendata.arcgis.com/datasets/CAC::parcelle
+License: Unknown
+Required attribution: Yes
+
+fr/correze
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/corse_du_sud
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/cote_dor
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/cotes_darmor
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/creuse
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/deux_sevres
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/dordogne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/doubs
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/drome
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/essonne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/eure
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/eure_et_loir
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/finistere
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/gard
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/gers
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/gironde
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/guadeloupe
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/guyane
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_corse
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_garonne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_loire
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_marne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_rhin
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_saone
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_savoie
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/haute_vienne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/hautes_alpes
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/hautes_pyrenees
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/hauts_de_seine
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/herault
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/ille_et_vilaine
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/indre
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/indre_et_loire
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/isere
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/jura
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/la_reunion
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/landes
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/loir_et_cher
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/loire
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/loire_atlantique
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/loiret
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/lot
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/lot_et_garonne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/lozere
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/maine_et_loire
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/manche
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/marne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/martinique
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/mayenne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/mayotte
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/meurthe_et_moselle
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/meuse
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/montpellier
+Website: https://www.data.gouv.fr/en/datasets/point-adresse-mtn/
+License: Unknown
+Required attribution: Montpellier Territoire Numérique
+
+fr/morbihan
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/moselle
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/nievre
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/nord
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/oise
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/orne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/paris
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/pas_de_calais
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/puy_de_dome
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/pyrenees_atlantiques
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/pyrenees_orientales
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/rhone
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/saone_et_loire
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/sarthe
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/savoie
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/seien_et_marne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/seine_maritime
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/seine_saint_denis
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/somme
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/tarn
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/tarn_et_garonne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/territoire_de_belfort
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/val_de_marne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/val_doise
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/var
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/vaucluse
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/vendee
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/vienne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/vosges
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/yonne
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+fr/yvelines
+Website: https://adresse.data.gouv.fr/
+License: Unknown
+Required attribution: Yes
+
+gr/b/municipality_of_kalamaria
+Website: http://geodata.gov.gr/dataset/arithmese-odon-tou-demou-kalamarias/resource/14cb00dc-8bcb-42ee-9cd1-ea411621583d
+License: Unknown
+Required attribution: Yes
+
+it/04/acerra
+Website: Unknown
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: 'Ufficio Sit Comune di Acerra
+
+it/21/city_of_biella
+Website: http://www.comune.biella.it/sito/index.php?biella-open-data
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Ufficio Sit Comune di Biella
+
+it/21/statewide
+Website: http://geomap.reteunitaria.piemonte.it/ws/taims/rp-01/taimsbasewms/wms_sfondo_cart_rif_bn?request=getcapabilities&service=WMS
+License: https://creativecommons.org/licenses/by/2.5/it/
+Required attribution: Yes
+
+it/21/torino
+Website: http://www.comune.torino.it/geoportale/datibase.htm
+License: http://www.sistemapiemonte.it/sitad/ricercaEntita.do?idEntita=10001942&interfaccia=rupar&ricerca=off&authType=guest
+Required attribution: I livelli di cartografia derivata sono rappresentabili in scala 1:10000 e sono ottenuti per derivazione dalla Carta Tecnica della Città di Torino in scala 1:1000. I cassoni degli isolati sono semplificati e le sedi stradali sono deformate per ospitare la toponomastica.
+
+it/25/bg
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/bs
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/co
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/cr
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/lc
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/lo
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/mb
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/mi
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/mn
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/pv
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/so
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/25/va
+Website: http://www.geoportale.regione.lombardia.it/metadati?p_p_id=PublishedMetadata_WAR_geoportalemetadataportlet&p_p_lifecycle=0&p_p_state=maximized&p_p_state=view&_PublishedMetadata_WAR_geoportalemetadataportlet_view=editPublishedMetadata&_PublishedMetadata_WAR_geoportalemetadataportlet_uuid=%7B16C07895-B75B-466A-B980-940ECA207F64%7D
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/32/south-tyrol-de
+Website: http://geoportal.buergernetz.bz.it/
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+Required attribution: Yes
+
+it/32/south-tyrol-it
+Website: http://geoportal.buergernetz.bz.it/
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+Required attribution: Yes
+
+it/32/south-tyrol-lld
+Website: http://geoportal.buergernetz.bz.it/
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+Required attribution: Yes
+
+it/34/city_of_verona
+Website: http://www.comune.verona.it/nqcontent.cfm?a_id=41435
+License: Unknown
+Required attribution: Comune di Verona
+
+it/34/venice
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+it/36/statewide
+Website: http://irdat.regione.fvg.it/consultatore-dati-ambientali-territoriali/executeSearch.do?searchDatasets=true&searchServices=true&searchIndicatori=true&testoRicerca=civici&topMap=0&leftMap=0&rightMap=0&bottomMap=0&customSelection=false&place=anywhere&codiciAmbiti=none&boundingBox=&patternSoggetti=&fonteDati=-1&dataDal=&dataAl=&selectedNetwork=&searchType=advanced&avviaRicerca=Search#
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+it/45/bo
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/bologna
+Website: http://dati.comune.bologna.it/node/167
+License: CC By 3.0 EN
+Required attribution: Dipartimento Riqualificazione Urbana di Bologna
+
+it/45/fc
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/fe
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/ferrara
+Website: http://www.comune.fe.it/index.phtml?id=3513
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Anagrafe Comunale degli Immobili (ACI VESTA)
+
+it/45/mo
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/pc
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/pr
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/ra
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/re
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/45/rn
+Website: http://geoportale.regione.emilia-romagna.it/it/download/dati-e-prodotti-cartografici-preconfezionati/database-topografico/gestione-viabilita-e-indirizzi/dati-preconfezionati-dbtr-civico-ncv_gpt
+License: http://geoportale.regione.emilia-romagna.it/it/allegati/Licenza_CC-BY_2.5.pdf/view
+Required attribution: Yes
+
+it/52/firenze
+Website: http://www.datiopen.it/it/opendata/Comune_di_Firenze_Civici
+License: CC by 3.0
+Required attribution: Città di Firenze
+
+it/55/statewide
+Website: Unknown
+License: https://creativecommons.org/licenses/by/
+Required attribution: Yes
+
+it/88/statewide
+Website: http://www.sardegnageoportale.it/index.php?xsl=1598&s=291551&v=2&c=8831&t=1
+License: http://www.dati.gov.it/iodl/2.0/
+Required attribution: Yes
+
+lt/city_of_vilnius
+Website: http://gis.opendata.lt/datasets/b800f4ef613a407fb038aa092c7c36a1_0?geometry=24.131%2C54.568%2C26.108%2C54.806
+License: Unknown
+Required attribution: Yes
+
+lu/countrywide
+Website: https://data.public.lu/en/datasets/adresses-georeferencees-bd-adresses/
+License: CC 0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Required attribution: Yes
+
+lv/city_of_riga
+Website: https://opendata.riga.lv/visas-datu-kopas.html
+License: https://opendata.riga.lv/licence.html
+Required attribution: Yes
+
+nl/countrywide
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+pl/dolnoslaskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/kujawsko-pomorskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/lodzkie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/lubelskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/lubuskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/malopolski
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/mazowieckie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/opolskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/podkarpackie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/podlaskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/pomorskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/slaskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/swietokrzyskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/warminsko-mazurskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/wielkopolskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pl/zachodniopomorskie
+Website: Unknown
+License: Polish Law on Geodesy and Cartography of 17 May 1989 (https://github.com/openaddresses/openaddresses/issues/187#issuecomment-63327973)
+Required attribution: Yes
+
+pt/11/amadora
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+pt/11/lisboa
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+pt/13/matosinhos
+Website: http://web2.cm-matosinhos.pt/portal/
+License: Unknown
+Required attribution: Yes
+
+pt/13/porto
+Website: http://mipweb.cm-porto.pt/arcgis/rest/services/Cache/CACHE_ENQUADRAMENTO/MapServer/0
+License: Unknown
+Required attribution: Yes
+
+pt/14/ourem
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+pt/countrywide
+Website: http://mapas.ine.pt/download/metadados/bgri11.html
+License: Unknown
+Required attribution: Yes
+
+ro/bucharest
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+ro/bucharest-metro
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_alingsas
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_gislaved
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_helsingborg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_hoganas
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_kalmar
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_kristinehamn
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_malmo
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_nacka
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_savsjö
+Website: http://giswww.savsjo.se/arcgis/rest/services/Savman/SavmanBakgrund/MapServer/3
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_stockholm
+Website: http://openstreetgs.stockholm.se/Home/Ws
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_vasteras
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_vaxholm
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_vaxjo
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+se/municipality_of_Österåker
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+si/countrywide
+Website: http://egp.gu.gov.si/egp/
+License: CC BY 2.5 SI (https://creativecommons.org/licenses/by/2.5/si/legalcode)
+Required attribution: Geodetska uprava Republike Slovenije / The Surveying and Mapping Authority of the Republic of Slovenia, Register prostorskih enot, 2017
+
+sk/countrywide
+Website: https://data.gov.sk/dataset/register-adries-register-vchodov
+License: CC BY 4.0 (http://www.opendefinition.org/licenses/cc-by)
+Required attribution: Ministerstvo vnútra Slovenskej republiky / Ministry of Interior of the Slovak Republic
