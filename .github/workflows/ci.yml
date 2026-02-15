@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches: [main, development]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Ruff
+        run: pip install ruff
+
+      - name: Ruff lint
+        run: ruff check .
+
+      - name: Ruff format check
+        run: ruff format --check .
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install libpostal
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential git autoconf automake libtool pkg-config
+          git clone https://github.com/openvenues/libpostal /tmp/libpostal
+          cd /tmp/libpostal
+          ./bootstrap.sh
+          ./configure --datadir=/tmp/libpostal_data
+          make -j$(nproc)
+          sudo make install
+          sudo ldconfig
+
+      - name: Install dependencies
+        run: pip install ".[dev]"
+
+      - name: Run tests
+        run: pytest
