@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(uvx ruff check:*)",
+      "Bash(uvx ruff format:*)",
+      "Bash(dir:*)",
+      "Bash(pip show:*)",
+      "WebSearch",
+      "Bash(pip install:*)",
+      "Bash(del:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pypi.org)",
+      "Bash(wsl bash -c \"cd /mnt/c/code/bullhorn-assignment && source ~/libpostal/myenv/bin/activate && python generate_misclassifications.py\")",
+      "Bash(wsl -e bash -c \"cd /mnt/c/code/bullhorn-assignment && source ~/libpostal/myenv/bin/activate && python generate_misclassifications.py\":*)",
+      "Bash(wsl:*)"
+    ]
+  }
+}
