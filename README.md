@@ -2,24 +2,19 @@
 
 HTTP service that identifies the country an address belongs to.
 
-## Quick Start
+## How to Run
 
-### Docker (recommended)
+Start the service with Docker:
 
 ```bash
 docker compose up --build
 ```
 
-### Local (requires WSL/Linux — libpostal does not run on Windows)
+Once running, there are two ways to interact with the service:
 
-```bash
-pip install -e ".[dev]"
-uvicorn src.main:app --host 0.0.0.0 --port 8000
-```
+**Option 1 — Swagger UI:** Open `http://localhost:8000/docs` in a browser. This provides an interactive interface where you can type an address directly and see the response, without needing any additional tools.
 
-The service starts at `http://localhost:8000`.
-
-## API Usage
+**Option 2 — curl / HTTP client:**
 
 ```bash
 curl -X POST http://localhost:8000/classify \
@@ -32,27 +27,12 @@ Response:
 {"address": "Nieuwendammerkade 26A-5, Amsterdam", "country": "Netherlands"}
 ```
 
-Interactive API docs available at `http://localhost:8000/docs`.
-
-## Running Tests
-
-```bash
-pytest
-```
-
-## Evaluation
-
-Run the pipeline against the full labeled dataset:
-
-```bash
-python scripts/evaluation/evaluate.py
-```
-
 ## Project Structure
 
 ```
 ├── docs/
 │   ├── eda.md                     # Exploratory data analysis
+│   ├── results.md                 # Assignment results and deliverables
 │   ├── solution-approach.md       # Pipeline architecture (L0-L6)
 │   └── approach-comparison.md     # Approach comparison and rationale
 ├── src/
@@ -71,13 +51,9 @@ python scripts/evaluation/evaluate.py
 └── pyproject.toml
 ```
 
-## How to Add a New Country
+## Documentation
 
-1. Add city entries to `cities.jsonl`
-2. Add country name variants to `_COUNTRY_NAMES` in `src/services/pipeline.py`
-3. Add a postal code regex to `_POSTAL_PATTERNS` if the format is distinctive
-4. Add linguistic terms to `_LINGUISTIC_TERMS` for the country's language
-
-No retraining or code changes to the pipeline logic required.
-
-See [docs/solution-approach.md](docs/solution-approach.md) for full details.
+- [Assignment Results](docs/results.md) — deliverables, limitations, how to run and extend
+- [Solution Approach](docs/solution-approach.md) — pipeline architecture and layer details
+- [Approach Comparison](docs/approach-comparison.md) — why a pipeline over ML/LLM
+- [Exploratory Data Analysis](docs/eda.md) — dataset analysis and filtering rationale
